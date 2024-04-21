@@ -4,6 +4,7 @@ import {FaLinkedin} from "react-icons/fa"
 import {FaGithub} from "react-icons/fa" 
 import {FaSquareXTwitter} from "react-icons/fa6" 
 import {FaInstagram} from "react-icons/fa" 
+import { FaEnvelope } from 'react-icons/fa'
 import './NavBar.css'
 const NavBar = () => {
   return (
@@ -16,6 +17,7 @@ const NavBar = () => {
             <a  href='https://github.com/DILLESH2004'><FaGithub/></a>
             <a href='https://x.com/BhagyaDillesh_1?t=S24L1US8pygGR8yLihrIWw&s=08'><FaSquareXTwitter /></a>
             <a href='https://www.instagram.com/dillesh_bhagya/'><FaInstagram /> </a>
+            <a href='https://drive.google.com/file/d/1AT5nVH4jZ8vCpAV93_qTJV8NfIw7KxTO/view?usp=drive_link'><FaEnvelope /> </a>
         </div>
     </nav>
   )
