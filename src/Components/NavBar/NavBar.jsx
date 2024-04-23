@@ -17,7 +17,7 @@ const NavBar = () => {
             <a  href='https://github.com/DILLESH2004'><FaGithub/></a>
             <a href='https://x.com/BhagyaDillesh_1?t=S24L1US8pygGR8yLihrIWw&s=08'><FaSquareXTwitter /></a>
             <a href='https://www.instagram.com/dillesh_bhagya/'><FaInstagram /> </a>
-            <a href='https://drive.google.com/file/d/1AT5nVH4jZ8vCpAV93_qTJV8NfIw7KxTO/view?usp=drive_link'><FaEnvelope /> </a>
+            <a href='https://drive.google.com/file/d/1NCwxKKTX1LuBYT1I3V-TOkMKjWBmEf2G/view?usp=drive_link'><FaEnvelope /> </a>
         </div>
     </nav>
   )
